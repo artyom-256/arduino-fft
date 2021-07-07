@@ -9,7 +9,7 @@ The input sound is splited into frequencies and an LED that corresponds to the m
 ### Equipment
 * Elegoo UNO R3 - x1
 * Max9814 Sound Sensor - x1
-* Resistor 220 Om - x11
+* Resistor 220 Ω - x11
 * LED - x11
 * 830 Tie-Points Breadboard - x1
 * Wires - x15
