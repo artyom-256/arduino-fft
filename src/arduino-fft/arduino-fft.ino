@@ -283,7 +283,7 @@ unsigned char ledPins[NUM_LEDS] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12};
  * Keep timestamps of last activation of each LED.
  * This allows us to keep track on how long the LED is alight.
  */
-long ledTimestamps[11] = {0};
+long ledTimestamps[NUM_LEDS] = {0};
 /**
  * Delay in microseconds between two measurements in order to keep
  * desired frequency of sampling.
