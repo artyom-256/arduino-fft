@@ -18,6 +18,7 @@ The input sound is splited into frequencies and an LED that corresponds to the m
 
 ### Circuit Diagram
 Anode of each LED is connected via a resistor to pins 2 - 12 of the Arduino board.
+
 ![Circuit Diagram](diagram/arduino-fft.png)
 
 ### Tools
